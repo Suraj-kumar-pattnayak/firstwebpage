@@ -1,0 +1,11 @@
+label{
+   display: block;
+   padding-top: 10px;
+   letter-spacing: 1px;
+   color: hsl(14, 100%, 50%) ;
+}
+form{
+    text-align:center;  
+    background-color: antiquewhite;
+    color: blue;
+}
